@@ -10,14 +10,15 @@ Use this repo to share and keep track of any PM related internships. Here's a [l
 |[Cisco Meraki](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Intern-Winter-2021-Internship-Meraki/1298084?source=LinkedIn)| Product Management Intern | San Francisco, California, US | Winter 2021 |
 |[Global Foundaries](https://gfoundries.taleo.net/careersection/gf_ext/jobdetail.ftl?job=213363)| PDK PM  | Santa Clara, California | Fall 2020 |
 |[Legrand](https://jobs-legrand.icims.com/jobs/6206/project-management-intern/job)| Project Manager Intern | US-UT-Pleasant Grove| Fall 2020 |
-|[Smith Micro Software](https://jobs.lever.co/smithmicro/a1578744-49ba-4255-baad-78b942c2541f)| Program Management Intern | Pittsburgh |  |
-|[Bizly](https://bizly-inc.breezy.hr/p/44aa5f411634?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble)| Associate Product Manager Intern | New York |  |
-|[Paypal](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-CA/Product-Manager-Intern_R0057796?Codes=W-LINKEDIN)| Product Manager Intern | Various Locations |  |
-|[Civitas Learning](https://hire.withgoogle.com/public/jobs/civitaslearningcom/view/P_AAAAAAEAAHuKC5NFwTZ6ia)| Project Manager Intern | Chico, California |  |
-|[Internet Brands](https://jobs.jobvite.com/internetbrands/job/oWZ4cfwV?__jvst=Job+Board&__jvsd=LinkedIn)| Technical Project Management Intern | Los Angeles, California |  |
+|[Smith Micro Software](https://jobs.lever.co/smithmicro/a1578744-49ba-4255-baad-78b942c2541f)| Program Management Intern | Pittsburgh | |
+|[Bizly](https://bizly-inc.breezy.hr/p/44aa5f411634?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble)| Associate Product Manager Intern | New York | |
+|[Paypal](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-CA/Product-Manager-Intern_R0057796?Codes=W-LINKEDIN)| Product Manager Intern | Various Locations | |
+|[Civitas Learning](https://hire.withgoogle.com/public/jobs/civitaslearningcom/view/P_AAAAAAEAAHuKC5NFwTZ6ia)| Project Manager Intern | Chico, California | |
+|[Internet Brands](https://jobs.jobvite.com/internetbrands/job/oWZ4cfwV?__jvst=Job+Board&__jvsd=LinkedIn)| Technical Project Management Intern | Los Angeles, California | |
 |[Evoke](https://www.evokegroup.com/careers/job/?job=2269014&board=evokena&gh_jid=2269014)| Various Roles | New York | Fall 2020 (8 Weeks) |
 |[Fivetran](https://jobs.lever.co/fivetran/12da4476-bb6d-473e-9487-c102015e2c58)| Content & Program Manager Intern | Oakland, California | For URM |
 |[GoodRx](https://jobs.lever.co/goodrx/65a61fbf-c6bf-498f-8160-899920d6ad17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Product Manager Intern | Santa Monica, California | |
+|[NuVasive](https://nuvasive.avature.net/careers/JobDetail/Intern-Project-Manager/7073)| Project Manager Intern | San Diego, California | |
 
 # Resources to prepare
 ### Books
