@@ -52,6 +52,7 @@ Use this repo to share and keep track of any PM related internships. Here's a [l
 - [UI/UX Resources](https://docs.google.com/document/d/1B9-cZVALFTpLYcDJYpXq8D77jpv1JGK3gFcUE4Sl2Bg/edit#heading=h.h8zqss5a316c)
 - [Guide to Rotational Programs](https://productschool.com/blog/product-management-2/apm-programs/)
 - [Agile Manifesto 🙏](https://agilemanifesto.org/)
+- [Application Tracker Template](https://docs.google.com/spreadsheets/d/1AXOPQO9aMW6_DQOFy5_KKLA8LZzPkEQhmhJhc7RSXrQ/edit#gid=0)
 
 
 Inspired by [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) and [Pitt CS](https://github.com/Pitt-CSC/Summer2021-Internships/blob/master/README.md)
