@@ -19,6 +19,8 @@ Use this repo to share and keep track of any PM related internships. Here's a [l
 |[Fivetran](https://jobs.lever.co/fivetran/12da4476-bb6d-473e-9487-c102015e2c58)| Content & Program Manager Intern | Oakland, California | For URM |
 |[GoodRx](https://jobs.lever.co/goodrx/65a61fbf-c6bf-498f-8160-899920d6ad17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Product Manager Intern | Santa Monica, California | |
 |[NuVasive](https://nuvasive.avature.net/careers/JobDetail/Intern-Project-Manager/7073)| Project Manager Intern | San Diego, California | |
+|[HP](https://jobs.hp.com/ShowJob/Id/5608/Product%20Management%20Intern?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none)| Product Management Intern | San Diego, California | Fall 2020 |
+|[HP](https://experian.referrals.selectminds.com/jobs/product-management-intern-16080)| Product Management Intern | Costa Mesa, California | |
 
 # Resources to prepare
 ### Books
