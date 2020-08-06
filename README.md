@@ -21,6 +21,7 @@ Use this repo to share and keep track of any PM related internships. Here's a [l
 |[NuVasive](https://nuvasive.avature.net/careers/JobDetail/Intern-Project-Manager/7073)| Project Manager Intern | San Diego, California | |
 |[HP](https://jobs.hp.com/ShowJob/Id/5608/Product%20Management%20Intern?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none)| Product Management Intern | San Diego, California | Fall 2020 |
 |[Experian](https://experian.referrals.selectminds.com/jobs/product-management-intern-16080)| Product Management Intern | Costa Mesa, California | |
+|[Precision Castparts](https://pcctalentacquisitionportal.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/xf-b77be0722e87/candidate/so/pm/1/pl/3/opp/299-Intern-Program-Management/en-GB)| Program Management Intern | | |
 
 # Resources to prepare
 ### Books
