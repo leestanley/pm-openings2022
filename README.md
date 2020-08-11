@@ -23,7 +23,7 @@ Use this repo to share and keep track of any PM related internships. Here's a [l
 |[Experian](https://experian.referrals.selectminds.com/jobs/product-management-intern-16080)| Product Management Intern | Costa Mesa, California | |
 |[Precision Castparts](https://pcctalentacquisitionportal.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/xf-b77be0722e87/candidate/so/pm/1/pl/3/opp/299-Intern-Program-Management/en-GB)| Program Management Intern | | |
 |[PEAK6](https://boards.greenhouse.io/capitalmanagement/jobs/2261798)| Product Management Intern | Chicago, IL | Summer 2021 |
-
+|[Chick-fil-A](https://careers-chickfila.icims.com/jobs/8248/2021-digital-product-management-summer-intern/job)| Digital Product Management Intern | Atlanta | Summer 2021 |
 
 
 # Resources to prepare
