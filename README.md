@@ -27,6 +27,9 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 |[PEAK6](https://boards.greenhouse.io/capitalmanagement/jobs/2261798)| Product Management Intern | Chicago, IL | Summer 2021 |
 |[Chick-fil-A](https://careers-chickfila.icims.com/jobs/8248/2021-digital-product-management-summer-intern/job)| Digital Product Management Intern | Atlanta | Summer 2021 |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Manager-MBA-Intern-United-States/1298575?source=LinkedIn)| (MBA) Product Management Intern | San Jose, CA | |
+|[Open Water VC](https://openwatervc.applytojob.com/apply/AYWI6O7slo/Product-Manager-Intern-Remote)| Product Management Intern | Menlo Park, CA | Fall 2020 |
+
+
 
 
 
