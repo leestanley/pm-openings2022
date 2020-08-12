@@ -71,4 +71,17 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 - [Application Tracker Template](https://docs.google.com/spreadsheets/d/1AXOPQO9aMW6_DQOFy5_KKLA8LZzPkEQhmhJhc7RSXrQ/edit#gid=0)
 
 
+
+## Schedule a mock interview session with me
+<strong>[Click here to book a 1hr session](https://calendly.com/leestanleysg/pm-mocks?month=2020-08&date=2020-08-15)</strong>
+
+I'll be doing mock interview sessions throughout Summer and Fall! I'm still fairly new to product management so don't be worried, anyone can sign up! If the Calendly doesn't have any open dates or slots, then I'm probably busy that week 😢. Format is: 
+```
+1. 5min: Casual Intro 
+2. 20min: Question(s) (Specify in the Calendly form which kind of questions you'd like)
+3. 5 min: Feedback
+4. 25min: Switch sides, you ask me & give feedback
+5. 5min: Casual Outro
+```
+
 Inspired by [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) and [Pitt CS](https://github.com/Pitt-CSC/Summer2021-Internships/blob/master/README.md)
