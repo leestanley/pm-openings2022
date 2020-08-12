@@ -1,6 +1,8 @@
 # PM Internships for 2020/2021 Internships 📊🐱
 Use this repo to share and keep track of any PM related internships. Here's a [link to the differences](https://www.feedough.com/product-manager-vs-program-manager-vs-project-manager/#:~:text=To%20summarise%2C,on%20How%20of%20a%20product.) between a program, product, and project manager. Know the differences between all of these roles before applying and tune your resume for each application.
 
+Feel free to make a [PR](https://forms.gle/sGZSvwWt2YRGdeJK9) to add any additional job openings or just fill out this [Google Form here](https://forms.gle/sGZSvwWt2YRGdeJK9) (Form might take longer to get on here). 
+
 ## The List 🙀
 
 | Name  | Title  |  Location |  Notes |
