@@ -29,6 +29,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Manager-MBA-Intern-United-States/1298575?source=LinkedIn)| (MBA) Product Management Intern | San Jose, CA | |
 |[Open Water VC](https://openwatervc.applytojob.com/apply/AYWI6O7slo/Product-Manager-Intern-Remote)| Product Management Intern | Menlo Park, CA | Fall 2020 |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2021-Intern---Associate-Product-Manager_JR68655-1?d=cta-nav-sjb-1)| Associate Product Manager Intern | Multiple Locations | Summer 2021 | 
+|[January.ai](https://hire.withgoogle.com/public/jobs/januaryai/view/P_AAAAAAEAAC5Nx1zQ124XSk?trackingTag=linkedIn)| Product Manager Intern | Menlo Park, CA | | 
 
 
 
