@@ -31,7 +31,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2021-Intern---Associate-Product-Manager_JR68655-1?d=cta-nav-sjb-1)| Associate Product Manager Intern | Various Locations | Summer 2021 | 
 |[January.ai](https://hire.withgoogle.com/public/jobs/januaryai/view/P_AAAAAAEAAC5Nx1zQ124XSk?trackingTag=linkedIn)| Product Manager Intern | Menlo Park, CA | | 
 |[TE Connectivity](https://careers.te.com/job/Middletown-Product-Management-Intern-Various-U_S_-Locations-PA-17057/668274600/?utm_source=LinkedInJobPostings&utm_campaign=job-slot)| Product Management Intern | Various Locations | |
-
+|[SkillSphere](https://jobs.siemens.com/jobs/217795?sourceType=PREMIUM_POST_SITE&source=LinkedIn%28Wrap%29)| Product Management Intern | Cary, CA | |
 
 
 
