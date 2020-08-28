@@ -8,20 +8,12 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 | Name  | Title  |  Location |  Notes |
 |---|---|---|---|
 |[Apple](https://jobs.apple.com/en-us/details/200180414/engineering-program-management-internship?team=STDNT)| Engineering Program Management Internship | Santa Clara Valley (Cupertino) | |
-|[CBS](https://viacomcbs.careers/virtual-usa/fall-2020-product-management-intern/C53DFB97B0594D4F858CD896EC043ED7/job/)| Product Management Intern | USA | Fall 2020 |
-|[Cisco Meraki](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Intern-Winter-2021-Internship-Meraki/1298084?source=LinkedIn)| Product Management Intern | San Francisco, CA | Winter 2021 |
-|[Global Foundaries](https://gfoundries.taleo.net/careersection/gf_ext/jobdetail.ftl?job=213363)| PDK PM  | Santa Clara, CA | Fall 2020 |
 |[Legrand](https://jobs-legrand.icims.com/jobs/6206/project-management-intern/job)| Project Manager Intern | US-UT-Pleasant Grove| Fall 2020 |
-|[Smith Micro Software](https://jobs.lever.co/smithmicro/a1578744-49ba-4255-baad-78b942c2541f)| Program Management Intern | Pittsburgh | |
 |[Bizly](https://bizly-inc.breezy.hr/p/44aa5f411634?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble)| Associate Product Manager Intern | New York | |
 |[Paypal](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-CA/Product-Manager-Intern_R0057796?Codes=W-LINKEDIN)| Product Manager Intern | Various Locations | |
-|[Civitas Learning](https://hire.withgoogle.com/public/jobs/civitaslearningcom/view/P_AAAAAAEAAHuKC5NFwTZ6ia)| Project Manager Intern | Chico, CA| |
 |[Internet Brands](https://jobs.jobvite.com/internetbrands/job/oWZ4cfwV?__jvst=Job+Board&__jvsd=LinkedIn)| Technical Project Management Intern | Los Angeles, CA | |
-|[Evoke](https://www.evokegroup.com/careers/job/?job=2269014&board=evokena&gh_jid=2269014)| Various Roles | New York | Fall 2020 (8 Weeks) |
-|[Fivetran](https://jobs.lever.co/fivetran/12da4476-bb6d-473e-9487-c102015e2c58)| Content & Program Manager Intern | Oakland, California | For URM |
 |[GoodRx](https://jobs.lever.co/goodrx/65a61fbf-c6bf-498f-8160-899920d6ad17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Product Manager Intern | Santa Monica, CA | |
 |[NuVasive](https://nuvasive.avature.net/careers/JobDetail/Intern-Project-Manager/7073)| Project Manager Intern | San Diego, California | |
-|[HP](https://jobs.hp.com/ShowJob/Id/5608/Product%20Management%20Intern?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none)| Product Management Intern | San Diego, CA | Fall 2020 |
 |[Experian](https://experian.referrals.selectminds.com/jobs/product-management-intern-16080)| Product Management Intern | Costa Mesa, California | |
 |[Precision Castparts](https://pcctalentacquisitionportal.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/xf-b77be0722e87/candidate/so/pm/1/pl/3/opp/299-Intern-Program-Management/en-GB)| Program Management Intern | | |
 |[PEAK6](https://boards.greenhouse.io/capitalmanagement/jobs/2261798)| Product Management Intern | Chicago, IL | Summer 2021 |
@@ -29,12 +21,11 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Manager-MBA-Intern-United-States/1298575?source=LinkedIn)| (MBA) Product Management Intern | San Jose, CA | |
 |[Open Water VC](https://openwatervc.applytojob.com/apply/AYWI6O7slo/Product-Manager-Intern-Remote)| Product Management Intern | Menlo Park, CA | Fall 2020 |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2021-Intern---Associate-Product-Manager_JR68655-1?d=cta-nav-sjb-1)| Associate Product Manager Intern | Various Locations | Summer 2021 | 
-|[January.ai](https://hire.withgoogle.com/public/jobs/januaryai/view/P_AAAAAAEAAC5Nx1zQ124XSk?trackingTag=linkedIn)| Product Manager Intern | Menlo Park, CA | | 
 |[TE Connectivity](https://careers.te.com/job/Middletown-Product-Management-Intern-Various-U_S_-Locations-PA-17057/668274600/?utm_source=LinkedInJobPostings&utm_campaign=job-slot)| Product Management Intern | Various Locations | |
-|[SkillSphere](https://jobs.siemens.com/jobs/217795?sourceType=PREMIUM_POST_SITE&source=LinkedIn%28Wrap%29)| Product Management Intern | Cary, CA | |
-
-
-
+|[Microsoft](https://careers.microsoft.com/us/en/job/870958/Internship-Opportunities-for-Students-Program-Manager)| Program Management Intern | Various Locations | Summer 2021 |
+|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2021-Intern---Associate-Product-Manager_JR68655-1?d=cta-nav-sjb-1)| Associate Product Management Intern | Various Locations | Summer 2021 |
+|[Honeywell](https://careers.honeywell.com/us/en/job/HONEUSREQ240271EXTERNALENUS/Associate-Program-Manager-Intern?utm_source=linkedin&utm_medium=phenom-feeds)| Associate Program Manager Intern | Kansas City, MI | |
+|[Silicon Labs](https://jobs.jobvite.com/silabs/job/opymdfwg)| Product Management Intern | Austin, TX | Summer 2021 |
 
 
 # Resources to prepare
