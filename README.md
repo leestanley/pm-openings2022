@@ -66,7 +66,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 
 
 ## Schedule a mock interview session with me
-<strong>[Click here to book a 1hr session](https://calendly.com/leestanleysg/pm-mocks?month=2020-08&date=2020-08-15)</strong>
+<strong>[Click here to book a 1hr session](https://calendly.com/leestanleysg/pm-mocks?back=1&month=2020-09)</strong>
 
 I'll be doing mock interview sessions throughout Summer and Fall! I'm still fairly new to product management so don't be worried, anyone can sign up! If the Calendly doesn't have any open dates or slots, then I'm probably busy that week 😢. Format is: 
 ```
