@@ -1,34 +1,45 @@
-# This list is now archived. For an updated list please view: https://apmlist.com/
+# PM Applications for 2021/2022 Internships and New Grad 
 
-# PM Internships for 2020/2021 Internships 📊🐱
-Use this repo to share and keep track of any PM related internships. Here's a [link to the differences](https://www.feedough.com/product-manager-vs-program-manager-vs-project-manager/#:~:text=To%20summarise%2C,on%20How%20of%20a%20product.) between a program, product, and project manager. Know the differences between all of these roles before applying and tune your resume for each application.
+Use this repo to share and keep track of any PM related postings. Here's a [link to the differences](https://www.feedough.com/product-manager-vs-program-manager-vs-project-manager/#:~:text=To%20summarise%2C,on%20How%20of%20a%20product.) between a program, product, and project manager. Know the differences between all of these roles before applying and tune your resume for each application.
 
-Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls) to add any additional job openings or just fill out this [Google Form here](https://forms.gle/sGZSvwWt2YRGdeJK9) (Form might take longer to get on here). 
+Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to add any additional job openings or just fill out this [Google Form here](https://forms.gle/sGZSvwWt2YRGdeJK9) (Form might take longer to get on here). 
 
-## The List 🙀
+## New Grad List 🙀
 
 | Name  | Title  |  Location |  Notes |
 |---|---|---|---|
-|[Apple](https://jobs.apple.com/en-us/details/200180414/engineering-program-management-internship?team=STDNT)| Engineering Program Management Internship | Santa Clara Valley (Cupertino) | |
-|[Legrand](https://jobs-legrand.icims.com/jobs/6206/project-management-intern/job)| Project Manager Intern | US-UT-Pleasant Grove| Fall 2020 |
-|[Bizly](https://bizly-inc.breezy.hr/p/44aa5f411634?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble)| Associate Product Manager Intern | New York | |
-|[Paypal](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-CA/Product-Manager-Intern_R0057796?Codes=W-LINKEDIN)| Product Manager Intern | Various Locations | |
-|[Internet Brands](https://jobs.jobvite.com/internetbrands/job/oWZ4cfwV?__jvst=Job+Board&__jvsd=LinkedIn)| Technical Project Management Intern | Los Angeles, CA | |
-|[GoodRx](https://jobs.lever.co/goodrx/65a61fbf-c6bf-498f-8160-899920d6ad17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)| Product Manager Intern | Santa Monica, CA | |
-|[NuVasive](https://nuvasive.avature.net/careers/JobDetail/Intern-Project-Manager/7073)| Project Manager Intern | San Diego, California | |
-|[Experian](https://experian.referrals.selectminds.com/jobs/product-management-intern-16080)| Product Management Intern | Costa Mesa, California | |
-|[Precision Castparts](https://pcctalentacquisitionportal.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/xf-b77be0722e87/candidate/so/pm/1/pl/3/opp/299-Intern-Program-Management/en-GB)| Program Management Intern | | |
-|[PEAK6](https://boards.greenhouse.io/capitalmanagement/jobs/2261798)| Product Management Intern | Chicago, IL | Summer 2021 |
-|[Chick-fil-A](https://careers-chickfila.icims.com/jobs/8248/2021-digital-product-management-summer-intern/job)| Digital Product Management Intern | Atlanta | Summer 2021 |
-|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Manager-MBA-Intern-United-States/1298575?source=LinkedIn)| (MBA) Product Management Intern | San Jose, CA | |
-|[Open Water VC](https://openwatervc.applytojob.com/apply/AYWI6O7slo/Product-Manager-Intern-Remote)| Product Management Intern | Menlo Park, CA | Fall 2020 |
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2021-Intern---Associate-Product-Manager_JR68655-1?d=cta-nav-sjb-1)| Associate Product Manager Intern | Various Locations | Summer 2021 | 
-|[TE Connectivity](https://careers.te.com/job/Middletown-Product-Management-Intern-Various-U_S_-Locations-PA-17057/668274600/?utm_source=LinkedInJobPostings&utm_campaign=job-slot)| Product Management Intern | Various Locations | |
-|[Microsoft](https://careers.microsoft.com/us/en/job/870958/Internship-Opportunities-for-Students-Program-Manager)| Program Management Intern | Various Locations | Summer 2021 |
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2021-Intern---Associate-Product-Manager_JR68655-1?d=cta-nav-sjb-1)| Associate Product Management Intern | Various Locations | Summer 2021 |
-|[Honeywell](https://careers.honeywell.com/us/en/job/HONEUSREQ240271EXTERNALENUS/Associate-Program-Manager-Intern?utm_source=linkedin&utm_medium=phenom-feeds)| Associate Program Manager Intern | Kansas City, MI | |
-|[Silicon Labs](https://jobs.jobvite.com/silabs/job/opymdfwg)| Product Management Intern | Austin, TX | Summer 2021 |
+|[Schmidt Futures](https://schmidtfutures.com/our-method/careers/associate-product-manager-2022/)| Associate Product Manager | New York
+|Google| Associate Product Manager | | Not Released |
+|Twitter| Associate Product Manager | | Not Released |
+|Lyft| Associate Product Manager | | Not Released |
+|Uber| Associate Product Manager | | Not Released |
+|Microsoft| Program Manager | | Not Released |
+|Atlassian| Associate Product Manager | | Not Released |
+|Kleiner Perkins| Product Fellow | | Not Released |
+|Facebook| Rotational Product Manager | | Not Released |
+|Shopify| Apprentice Product Manager | | Closed |
 
+
+## The Internship List 🙀
+
+| Name  | Title  |  Location |  Notes |
+|---|---|---|---|
+|[Owlet Baby Care](https://boards.greenhouse.io/owletbabycare/jobs/4055801004?s=LinkedIn&source=LinkedIn)| Intern, Product Management (Analytics) | Remote | 
+|[Tesla](https://www.tesla.com/careers/search/job/energy-product-management-internship-fall-2021-91829?source=LinkedIn)| Energy – Product Management Internship | Remote | Fall 2021 |
+|[Snackpass](https://jobs.lever.co/snackpass/5615cf85-adec-4b8f-8ed3-76cd2a0078cb)| Product Intern | | Fall 2021 | 
+|[Lucid](https://jobs.lever.co/lucidmotors/94895763-bfcc-4994-b30c-ac9f62d1d650?lever-origin=applied&lever-source%255B%255D=LinkedIn&lever-source=LinkedInJobs)| Intern, Product Management | Newark, CA | Fall 2021 |
+
+## Schedule a mock interview session with me
+<strong>[Click here to book a 1hr session](https://calendly.com/leestanleysg/mock-interviews?back=1&month=2021-07)</strong>
+
+I'll be doing mock interview sessions throughout Summer and Fall! Last season I did ~25 mock interviews covering product design, execution, estimation, etc. Experience with mock interviewing is preferred, but not required. If you'd like to just ask me some questions about product management and exploring career paths, connect with me on [LinkedIn](https://www.linkedin.com/in/leestanleysg/) and shoot me a message.   
+```
+1. 5min: Casual Intro 
+2. 20min: Question(s) (Specify in the Calendly form which kind of questions you'd like)
+3. 5 min: Feedback
+4. 25min: Switch sides, you ask me & give feedback
+5. 5min: Casual Outro
+```
 
 # Resources to prepare
 ### Books
@@ -37,6 +48,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 - [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818/ref=sr_1_3?dchild=1&keywords=cracking+the+pm+interview&qid=1596561986&s=books&sr=1-3)
 - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_3?dchild=1&keywords=lean+startup&qid=1596562230&sr=8-3)
 - [Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
+- [Inspired: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507)
 
 ### Articles
 - [What to Study as a PM](https://medium.com/productvision/what-to-study-as-a-pm-the-4-pillars-and-roof-of-product-management-knowledge-818638cc7938)
@@ -65,4 +77,4 @@ Feel free to make a [PR](https://github.com/leestanley/pm-internships2021/pulls)
 - [Agile Manifesto 🙏](https://agilemanifesto.org/)
 - [Application Tracker Template](https://docs.google.com/spreadsheets/d/1AXOPQO9aMW6_DQOFy5_KKLA8LZzPkEQhmhJhc7RSXrQ/edit#gid=0)
 
-Inspired by [elaine-zheng](https://github.com/elaine-zheng/summer2020internships) and [Pitt CS](https://github.com/Pitt-CSC/Summer2021-Internships/blob/master/README.md)
+Inspired by [elaine-zheng](https://github.com/elaine-zheng/summer2020internships), [Pitt CS](https://github.com/Pitt-CSC/Summer2021-Internships/blob/master/README.md), and [APM List](https://apmlist.com/)
