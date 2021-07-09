@@ -20,7 +20,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |LinkedIn| Associate Product Manager | | Not Released |
 |Salesforce| Associate Product Manager | | Not Released |
 |Coinbase| Associate Product Manager | | Not Released |
-|Yahoo (Apollo)| Rotational Product Manager | | Not Released |
+|Yahoo (Apollo)| Associate Product Manager | | Not Released |
 |Shopify| Apprentice Product Manager | | Closed |
 
 
