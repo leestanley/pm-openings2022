@@ -38,7 +38,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[nCino](https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/Salt-Lake-City-UT/Product-Management-Intern---Summer-2021---Salt-Lake-City_R2088?source=Linkedin)| Product Management Intern | Salt Lake City, UT | Summer/Fall 2021 |
 |[Formlabs](https://careers.formlabs.com/job/3198113/apply/?gh_jid=3198113&gh_src=74d12b151us)| Software Product Management Intern | Somerville, MA | |
 |[Blackberry](https://bb.wd3.myworkdayjobs.com/Student/job/San-Ramon-California/Product-Management-Intern---BlackBerry-AtHoc---Intern---Fall-Term_20210592)| Product Management Intern - BlackBerry AtHoc | San Ramon, CA | Fall 2021 |
-|[Paypal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager-Intern_R0075287?Codes=W-LINKEDIN)| Product Manager Intern | Multiple | Fall 2022 |
+|[Paypal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager-Intern_R0075287?Codes=W-LINKEDIN)| Product Manager Intern | Multiple | Summer 2022 |
 
 
 ## Schedule a mock interview session with me
