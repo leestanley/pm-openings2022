@@ -43,6 +43,8 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[SAM Labs](https://boards.greenhouse.io/samlabs/jobs/3227804?gh_jid=3227804&gh_src=53e922201us)| Strategy Associate Internship (Growth) | | |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999757085649-localization-project-manager-intern)| Localization Project Manager Intern | Remote | |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999748339491-intern-project-manager-logistics-fall-2021-)| Intern - Project Manager, Logistics | Remote | Fall 2021 |
+|[Tencent](https://boards.greenhouse.io/tencent/jobs/5291921002?gh_src=d6820b922us)| Program Manager Intern (MBA/Master's) | Palo Alto, CA | |
+|[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Program-Manager-Intern--Remote-_R4109?source=tmp_link&dclid=CIaknIaR4fECFcZ6YgodEscB8g)| Engineering Program Manager Intern | Remote | |
 
 
 ## Schedule a mock interview session with me
