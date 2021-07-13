@@ -41,6 +41,8 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Paypal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager-Intern_R0075287?Codes=W-LINKEDIN)| Product Manager Intern | Multiple | Summer 2022 |
 |[T-Mobile](https://www.tmobile.careers/job-details/13090202/techx-intern-project-management-san-diego-ca/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=Exclusions&utm_content=TechX%2520Intern%2520%252D%2520Project%2520Management&utm_term=680421)| TechX Intern – Project Management | San Diego, CA | Fall 2021 - Spring 2022 |
 |[SAM Labs](https://boards.greenhouse.io/samlabs/jobs/3227804?gh_jid=3227804&gh_src=53e922201us)| Strategy Associate Internship (Growth) | | |
+|[Wish](https://jobs.smartrecruiters.com/Wish/743999757085649-localization-project-manager-intern)| Localization Project Manager Intern | Remote | |
+|[Wish](https://jobs.smartrecruiters.com/Wish/743999748339491-intern-project-manager-logistics-fall-2021-)| Intern - Project Manager, Logistics | Remote | Fall 2021 |
 
 
 ## Schedule a mock interview session with me
