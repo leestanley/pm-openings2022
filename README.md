@@ -45,6 +45,9 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999748339491-intern-project-manager-logistics-fall-2021-)| Intern - Project Manager, Logistics | Remote | Fall 2021 |
 |[Tencent](https://boards.greenhouse.io/tencent/jobs/5291921002?gh_src=d6820b922us)| Program Manager Intern (MBA/Master's) | Palo Alto, CA | |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Program-Manager-Intern--Remote-_R4109?source=tmp_link&dclid=CIaknIaR4fECFcZ6YgodEscB8g)| Engineering Program Manager Intern | Remote | |
+|[Lenovo](https://jobs.lenovo.com/en_US/careers/ApplicationMethods?jobId=25913)| Product Manager Intern | Remote | Spring 2022 |
+|[PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4055753004?s=LinkedIn&source=LinkedIn)| CAP Product Manager Intern | Remote | Fall 2021 |
+
 
 
 ## Schedule a mock interview session with me
