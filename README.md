@@ -82,7 +82,7 @@ I'll be doing mock interview sessions throughout Summer and Fall! Last season I 
 - [Product Manager Career Path Options](https://medium.com/pminsider/product-manager-career-paths-8c0f2a92d98e)
 
 ### Prep Platforms
-- [Exponent (Referral Link)](https://www.tryexponent.com/refer/vbmgq) / [Exponent (Non-Referral Link)](https://www.tryexponent.com/refer/vbmgq)
+- [Exponent (Referral Link)](https://www.tryexponent.com/refer/vbmgq) / [Exponent (Non-Referral Link)](https://www.tryexponent.com)
 - [Rocketblocks](https://www.rocketblocks.me/)
 - [StellarPeers](https://stellarpeers.com/)
 - [Product Alliance](https://www.productalliance.com/)
