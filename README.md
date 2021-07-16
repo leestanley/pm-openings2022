@@ -81,6 +81,12 @@ I'll be doing mock interview sessions throughout Summer and Fall! Last season I 
 - [How I Prepared for a Product Manager Interview](https://medium.com/@diemkay/how-i-prepared-for-a-product-manager-interview-26122f2c80ba)
 - [Product Manager Career Path Options](https://medium.com/pminsider/product-manager-career-paths-8c0f2a92d98e)
 
+### Prep Platforms
+- [Exponent (Referral Link)](https://www.tryexponent.com/refer/vbmgq) / [Exponent (Non-Referral Link)](https://www.tryexponent.com/refer/vbmgq)
+- [Rocketblocks](https://www.rocketblocks.me/)
+- [StellarPeers](https://stellarpeers.com/)
+- [Product Alliance](https://www.productalliance.com/)
+
 ### Etc.
 - [Mock PM Interview Tool](https://thepminterview.com/)
 - [Mock Interview Videos](https://www.youtube.com/c/ExponentTV/videos)
