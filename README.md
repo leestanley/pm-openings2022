@@ -21,6 +21,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |Salesforce| Associate Product Manager | | Not Released |
 |Coinbase| Associate Product Manager | | Not Released |
 |Yahoo (Apollo)| Associate Product Manager | | Not Released |
+|Redfin| Associate Product Manager | Multiple | September 2021 Release |
 |Shopify| Apprentice Product Manager | | Closed for 2021 |
 
 
@@ -47,6 +48,9 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Program-Manager-Intern--Remote-_R4109?source=tmp_link&dclid=CIaknIaR4fECFcZ6YgodEscB8g)| Engineering Program Manager Intern | Remote | |
 |[Lenovo](https://jobs.lenovo.com/en_US/careers/ApplicationMethods?jobId=25913)| Product Manager Intern | Remote | Spring 2022 |
 |[PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4055753004?s=LinkedIn&source=LinkedIn)| CAP Product Manager Intern | Remote | Fall 2021 |
+|[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Magnum-IO-Product-Intern---Summer-Fall-2021_JR1942033-1?source=jobboardlinkedin)| Magnum IO Product Intern | Remote | Summer/Fall 2021 |
+|[Cubic Corporation](https://cubic.wd1.myworkdayjobs.com/en-US/cubic_USA_careers/job/USA-San-Diego-CA-HQ/Program-Management-Intern_REQ_28709)| Program Management Intern | San Diego, CA | |
+|Redfin| Product Manager Intern | Multiple | September 2021 Release |
 
 
 
