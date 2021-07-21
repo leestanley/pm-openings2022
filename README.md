@@ -50,6 +50,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4055753004?s=LinkedIn&source=LinkedIn)| CAP Product Manager Intern | Remote | Fall 2021 |
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Magnum-IO-Product-Intern---Summer-Fall-2021_JR1942033-1?source=jobboardlinkedin)| Magnum IO Product Intern | Remote | Summer/Fall 2021 |
 |[Cubic Corporation](https://cubic.wd1.myworkdayjobs.com/en-US/cubic_USA_careers/job/USA-San-Diego-CA-HQ/Program-Management-Intern_REQ_28709)| Program Management Intern | San Diego, CA | |
+|[Integral Ad Science](https://www.linkedin.com/company/integralads/life/391efc9b-f4c3-4e51-a35a-710ab3731d3b/)| Product Manager Intern | Chicago, IL | |
 |Redfin| Product Manager Intern | Multiple | September 2021 Release |
 
 
