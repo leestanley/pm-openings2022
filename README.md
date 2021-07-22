@@ -51,6 +51,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Magnum-IO-Product-Intern---Summer-Fall-2021_JR1942033-1?source=jobboardlinkedin)| Magnum IO Product Intern | Remote | Summer/Fall 2021 |
 |[Cubic Corporation](https://cubic.wd1.myworkdayjobs.com/en-US/cubic_USA_careers/job/USA-San-Diego-CA-HQ/Program-Management-Intern_REQ_28709)| Program Management Intern | San Diego, CA | |
 |[Integral Ad Science](https://integralads.com/about-ias/careers/job-openings/?gh_jid=3319550&gh_src=6e382d8d1us)| Product Manager Intern | Chicago, IL | |
+|[Nielsen](https://jobs.nielsen.com/job/Tampa-FL-33601/738654400/?src=JB-10001)| Automation/Product Management Intern | Tampa, FL | |
 |Redfin| Product Manager Intern | Multiple | September 2021 Release |
 
 
