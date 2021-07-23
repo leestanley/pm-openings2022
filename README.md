@@ -52,6 +52,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Cubic Corporation](https://cubic.wd1.myworkdayjobs.com/en-US/cubic_USA_careers/job/USA-San-Diego-CA-HQ/Program-Management-Intern_REQ_28709)| Program Management Intern | San Diego, CA | |
 |[Integral Ad Science](https://integralads.com/about-ias/careers/job-openings/?gh_jid=3319550&gh_src=6e382d8d1us)| Product Manager Intern | Chicago, IL | |
 |[Nielsen](https://jobs.nielsen.com/job/Tampa-FL-33601/738654400/?src=JB-10001)| Automation/Product Management Intern | Tampa, FL | |
+|[Koddi](https://jobs.lever.co/koddi/8c58bb77-9eb1-40ba-99d1-0490cc07eb93)| Product Management Intern | Fort Worth, TX | |
 |Redfin| Product Manager Intern | Multiple | September 2021 Release |
 
 
