@@ -9,15 +9,14 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 | Name  | Title  |  Location |  Notes |
 |---|---|---|---|
 |[Schmidt Futures](https://schmidtfutures.com/our-method/careers/associate-product-manager-2022/)| Associate Product Manager | New York | |
+|[Uber](https://www.uber.com/careers/apply/interstitial/105885)| Associate Product Manager | San Francisco, CA | |
+|[Facebook](https://www.fbrpms.com/apply)| Rotational Product Manager | Multiple | |
 |Google| Associate Product Manager | | Not Released |
 |Twitter| Associate Product Manager | | Not Released |
 |Lyft| Associate Product Manager | | Not Released |
-|Uber| Associate Product Manager | | Not Released |
 |Microsoft| Program Manager | | Not Released |
 |Atlassian| Associate Product Manager | | Not Released |
-|Kleiner Perkins| Product Fellow | | Not Released |
-|Facebook| Rotational Product Manager | | Not Released |
-|LinkedIn| Associate Product Manager | | Not Released |
+|Kleiner Perkins| Product Fellow | | Not Released ||LinkedIn| Associate Product Manager | | Not Released |
 |Salesforce| Associate Product Manager | | Not Released |
 |Coinbase| Associate Product Manager | | Not Released |
 |Yahoo (Apollo)| Associate Product Manager | | Not Released |
