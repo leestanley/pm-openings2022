@@ -32,9 +32,6 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Tesla](https://www.tesla.com/careers/search/job/energy-product-management-internship-fall-2021-91829?source=LinkedIn)| Energy – Product Management Internship | Remote | Fall 2021 |
 |[Snackpass](https://jobs.lever.co/snackpass/5615cf85-adec-4b8f-8ed3-76cd2a0078cb)| Product Intern | | Fall 2021 | 
 |[Lucid](https://jobs.lever.co/lucidmotors/94895763-bfcc-4994-b30c-ac9f62d1d650?lever-origin=applied&lever-source%255B%255D=LinkedIn&lever-source=LinkedInJobs)| Intern, Product Management | Newark, CA | Fall 2021 |
-|[UpDog Dates](https://www.linkedin.com/jobs/search/?currentJobId=2634819060)| Product Management Intern | | |
-|[The New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Product-Intern_REQ-009391-1?source=Linkedin)| Product Intern | | |
-|[Match.com](https://jobs.lever.co/matchgroup/aa7099c8-b82a-4560-a956-9835da0d7b5a/apply)| Product Intern | | |
 |[nCino](https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/Salt-Lake-City-UT/Product-Management-Intern---Summer-2021---Salt-Lake-City_R2088?source=Linkedin)| Product Management Intern | Salt Lake City, UT | Summer/Fall 2021 |
 |[Formlabs](https://careers.formlabs.com/job/3198113/apply/?gh_jid=3198113&gh_src=74d12b151us)| Software Product Management Intern | Somerville, MA | |
 |[Blackberry](https://bb.wd3.myworkdayjobs.com/Student/job/San-Ramon-California/Product-Management-Intern---BlackBerry-AtHoc---Intern---Fall-Term_20210592)| Product Management Intern - BlackBerry AtHoc | San Ramon, CA | Fall 2021 |
@@ -43,7 +40,6 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[SAM Labs](https://boards.greenhouse.io/samlabs/jobs/3227804?gh_jid=3227804&gh_src=53e922201us)| Strategy Associate Internship (Growth) | | |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999757085649-localization-project-manager-intern)| Localization Project Manager Intern | Remote | |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999748339491-intern-project-manager-logistics-fall-2021-)| Intern - Project Manager, Logistics | Remote | Fall 2021 |
-|[Tencent](https://boards.greenhouse.io/tencent/jobs/5291921002?gh_src=d6820b922us)| Program Manager Intern (MBA/Master's) | Palo Alto, CA | |
 |[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Program-Manager-Intern--Remote-_R4109?source=tmp_link&dclid=CIaknIaR4fECFcZ6YgodEscB8g)| Engineering Program Manager Intern | Remote | |
 |[Lenovo](https://jobs.lenovo.com/en_US/careers/ApplicationMethods?jobId=25913)| Product Manager Intern | Remote | Spring 2022 |
 |[PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4055753004?s=LinkedIn&source=LinkedIn)| CAP Product Manager Intern | Remote | Fall 2021 |
