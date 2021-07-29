@@ -52,8 +52,11 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Integral Ad Science](https://integralads.com/about-ias/careers/job-openings/?gh_jid=3319550&gh_src=6e382d8d1us)| Product Manager Intern | Chicago, IL | |
 |[Nielsen](https://jobs.nielsen.com/job/Tampa-FL-33601/738654400/?src=JB-10001)| Automation/Product Management Intern | Tampa, FL | |
 |[Koddi](https://jobs.lever.co/koddi/8c58bb77-9eb1-40ba-99d1-0490cc07eb93)| Product Management Intern | Fort Worth, TX | |
+|[Tesla](https://www.tesla.com/careers/search/job/energy-technical-program-management-internship-fall-2021-80328)| Technical Program Management Intern | 	Palo Alto, CA | Fall 2021 |
+|[Tesla](https://www.tesla.com/careers/search/job/applications-engineering-product-management-internship-fall-2021-80368)| Product Management Intern | Fremont, CA | Fall 2021 |
+|[Motional](https://boards.greenhouse.io/motional/jobs/4623928003?gh_src=d5b9c08a3us)| Technical Program Management Intern | Pittsburgh, PA | Fall 2021 |
+|[Intel](https://jobs.intel.com/ShowJob/Id/2958460/Intern%20%20%20Technical%20Program%20Management)| Technical Program Management Intern | Santa Clara, CA | |
 |Redfin| Product Manager Intern | Multiple | September 2021 Release |
-
 
 
 ## Schedule a mock interview session with me
