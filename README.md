@@ -11,13 +11,13 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Schmidt Futures](https://schmidtfutures.com/our-method/careers/associate-product-manager-2022/)| Associate Product Manager | New York | |
 |[Uber](https://www.uber.com/careers/apply/interstitial/105885)| Associate Product Manager | San Francisco, CA | |
 |[Facebook](https://www.fbrpms.com/apply)| Rotational Product Manager | Multiple | |
+|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--APM-_JR106327-1)| Associate Product Manager | | San Francisco, CA |
 |Google| Associate Product Manager | | Not Released |
 |Twitter| Associate Product Manager | | Not Released |
 |Lyft| Associate Product Manager | | Not Released |
 |Microsoft| Program Manager | | Not Released |
 |Atlassian| Associate Product Manager | | Not Released |
 |Kleiner Perkins| Product Fellow | | Not Released ||LinkedIn| Associate Product Manager | | Not Released |
-|Salesforce| Associate Product Manager | | Not Released |
 |Coinbase| Associate Product Manager | | Not Released |
 |Yahoo (Apollo)| Associate Product Manager | | Not Released |
 |Redfin| Associate Product Manager | Multiple | September 2021 Release |
@@ -52,6 +52,8 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Tesla](https://www.tesla.com/careers/search/job/applications-engineering-product-management-internship-fall-2021-80368)| Product Management Intern | Fremont, CA | Fall 2021 |
 |[Motional](https://boards.greenhouse.io/motional/jobs/4623928003?gh_src=d5b9c08a3us)| Technical Program Management Intern | Pittsburgh, PA | Fall 2021 |
 |[Intel](https://jobs.intel.com/ShowJob/Id/2958460/Intern%20%20%20Technical%20Program%20Management)| Technical Program Management Intern | Santa Clara, CA | |
+|[Sezzle](https://boards.greenhouse.io/sezzle/jobs/4645961003?gh_src=6d383ce23us)| Product Management Intern | Minneapolis, MN | |
+|[Foursquare](https://boards.greenhouse.io/foursquare26/jobs/2233480?gh_src=5ce553f31&s=LinkedIn&source=LinkedIn)| Product & Data Support Intern | New York | |
 |Redfin| Product Manager Intern | Multiple | September 2021 Release |
 
 
