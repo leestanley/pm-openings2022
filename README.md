@@ -54,6 +54,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Intel](https://jobs.intel.com/ShowJob/Id/2958460/Intern%20%20%20Technical%20Program%20Management)| Technical Program Management Intern | Santa Clara, CA | |
 |[Sezzle](https://boards.greenhouse.io/sezzle/jobs/4645961003?gh_src=6d383ce23us)| Product Management Intern | Minneapolis, MN | |
 |[Foursquare](https://boards.greenhouse.io/foursquare26/jobs/2233480?gh_src=5ce553f31&s=LinkedIn&source=LinkedIn)| Product & Data Support Intern | New York | |
+|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-Intern-United-States/1338685)| Product Management Specialist Intern | San Jose, CA | |
 |Redfin| Product Manager Intern | Multiple | September 2021 Release |
 
 
