@@ -12,9 +12,10 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Uber](https://www.uber.com/careers/apply/interstitial/105885)| Associate Product Manager | San Francisco, CA | |
 |[Facebook](https://www.fbrpms.com/apply)| Rotational Product Manager | Multiple | |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--APM-_JR106327-1)| Associate Product Manager | | San Francisco, CA |
+|[Lyft](https://boards.greenhouse.io/lyft/jobs/5421099002?gh_jid=5421099002)| Associate Product Manager | | San Francisco, CA |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445792002)| Associate Product Manager | | Pittsburgh, PA |
 |Google| Associate Product Manager | | Not Released |
 |Twitter| Associate Product Manager | | Not Released |
-|Lyft| Associate Product Manager | | Not Released |
 |Microsoft| Program Manager | | Not Released |
 |Atlassian| Associate Product Manager | | Not Released |
 |Kleiner Perkins| Product Fellow | | Not Released ||LinkedIn| Associate Product Manager | | Not Released |
@@ -55,20 +56,9 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Sezzle](https://boards.greenhouse.io/sezzle/jobs/4645961003?gh_src=6d383ce23us)| Product Management Intern | Minneapolis, MN | |
 |[Foursquare](https://boards.greenhouse.io/foursquare26/jobs/2233480?gh_src=5ce553f31&s=LinkedIn&source=LinkedIn)| Product & Data Support Intern | New York | |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-Intern-United-States/1338685)| Product Management Specialist Intern | San Jose, CA | |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445799002)| Associate Product Manager, Intern | | Pittsburgh, PA |
+|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3337984&gh_src=8363eca61)| Product Manager Intern | | New York City, NY |
 |Redfin| Product Manager Intern | Multiple | September 2021 Release |
-
-
-## Schedule a mock interview session with me
-<strong>[Click here to book a 1hr session](https://calendly.com/leestanleysg/mock-interviews?back=1&month=2021-07)</strong>
-
-I'll be doing mock interview sessions throughout Summer and Fall! Last season I did ~25 mock interviews covering product design, execution, estimation, etc. Experience with mock interviewing is preferred, but not required. If you'd like to just ask me some questions about product management and exploring career paths, connect with me on [LinkedIn](https://www.linkedin.com/in/leestanleysg/) and shoot me a message.   
-```
-1. 5min: Casual Intro 
-2. 20min: Question(s) (Specify in the Calendly form which kind of questions you'd like)
-3. 5 min: Feedback
-4. 25min: Switch sides, you ask me & give feedback
-5. 5min: Casual Outro
-```
 
 # Resources to prepare
 ### Books
