@@ -18,7 +18,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Capital One](https://campus.capitalone.com/job/mclean/product-development-program-associate-2022/1786/19642564)| Product Development Program Associate | | Multiple |
 |Google| Associate Product Manager | | Not Released |
 |Twitter| Associate Product Manager | | Not Released |
-|Microsoft| Program Manager | | Not Released |
+|[Microsoft](https://careers.microsoft.com/us/en/job/1085297)| Program Manager | | Redmond, Washington |
 |Atlassian| Associate Product Manager | | Not Released |
 |Kleiner Perkins| Product Fellow | | Not Released ||LinkedIn| Associate Product Manager | | Not Released |
 |Coinbase| Associate Product Manager | | Not Released |
