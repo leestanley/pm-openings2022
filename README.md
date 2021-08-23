@@ -60,6 +60,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-Intern-United-States/1338685)| Product Management Specialist Intern | San Jose, CA | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445799002)| Associate Product Manager, Intern | | Pittsburgh, PA |
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3337984&gh_src=8363eca61)| Product Manager Intern | | New York City, NY |
+|[Microsoft](https://careers.microsoft.com/us/en/job/1085296)| Program Manager Intern |  Redmond, Washington | Summer 2022 |
 |Redfin| Product Manager Intern | Multiple | September 2021 Release |
 
 # Resources to prepare
