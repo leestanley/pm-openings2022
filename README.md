@@ -9,8 +9,8 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 | Name  | Title  |  Location |  Notes |
 |---|---|---|---|
 |[Schmidt Futures](https://schmidtfutures.com/our-method/careers/associate-product-manager-2022/)| Associate Product Manager | New York | |
-|[Uber](https://www.uber.com/careers/apply/interstitial/105885)| Associate Product Manager | San Francisco, CA | |
-|[Facebook](https://www.fbrpms.com/apply)| Rotational Product Manager | Multiple | |
+|[Uber](https://www.uber.com/careers/apply/interstitial/105885)| Associate Product Manager | San Francisco, CA | Closed |
+|[Facebook](https://www.fbrpms.com/apply)| Rotational Product Manager | Multiple | Closed |
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--APM-_JR106327-1)| Associate Product Manager | | San Francisco, CA |
 |[Lyft](https://boards.greenhouse.io/lyft/jobs/5421099002?gh_jid=5421099002)| Associate Product Manager | | San Francisco, CA |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445792002)| Associate Product Manager | | Pittsburgh, PA |
