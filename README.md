@@ -69,6 +69,8 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Appian Corporation](https://boards.greenhouse.io/appian/jobs/3394396?gh_src=8b70a9021&s=LinkedIn&source=LinkedIn)| Product Manager Intern | McLean, VA | Summer 2022 |
 |[Paypal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager-Intern_R0075287?Codes=W-LINKEDIN)| Product Manager Intern | Multiple | Summer 2022 |
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Product-Management---Summer-2022-Internship_41354)| Product Manager Intern | Multiple | Summer 2022 |
+|[PWC](https://jobs.us.pwc.com/job/-/-/932/12821169664?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CNCllqKb0PICFQaZpwodYzwGwA)| Product Manager Intern | Multiple | Summer 2022 |
+|[Pattern](https://pattern.breezy.hr/p/cddca9ea8392-internship-product-management)| Product Manager Intern | Lehi, UT | Fall 2021 | 
 
 # Resources to prepare
 ### Books
