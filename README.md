@@ -9,22 +9,24 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 | Name  | Title  |  Location |  Notes |
 |---|---|---|---|
 |[Schmidt Futures](https://schmidtfutures.com/our-method/careers/associate-product-manager-2022/)| Associate Product Manager | New York | |
-|[Uber](https://www.uber.com/careers/apply/interstitial/105885)| Associate Product Manager | San Francisco, CA | Closed |
-|[Facebook](https://www.fbrpms.com/apply)| Rotational Product Manager | Multiple | Closed |
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--APM-_JR106327-1)| Associate Product Manager | | San Francisco, CA |
-|[Lyft](https://boards.greenhouse.io/lyft/jobs/5421099002?gh_jid=5421099002)| Associate Product Manager | | San Francisco, CA |
-|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445792002)| Associate Product Manager | | Pittsburgh, PA |
-|[IBM](https://careers.ibm.com/job/13546029/associate-product-manager-program-2022-remote/?codes=IBM_CareerWebSite)| Associate Product Manager | | Multiple |
-|[Capital One](https://campus.capitalone.com/job/mclean/product-development-program-associate-2022/1786/19642564)| Product Development Program Associate | | Multiple |
+|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--APM-_JR106327-1)| Associate Product Manager | San Francisco, CA | |
+|[Lyft](https://boards.greenhouse.io/lyft/jobs/5421099002?gh_jid=5421099002)| Associate Product Manager | San Francisco, CA |  |
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445792002)| Associate Product Manager | Pittsburgh, PA | |
+|[IBM](https://careers.ibm.com/job/13546029/associate-product-manager-program-2022-remote/?codes=IBM_CareerWebSite)| Associate Product Manager | Multiple | |
+|[Capital One](https://campus.capitalone.com/job/mclean/product-development-program-associate-2022/1786/19642564)| Product Development Program Associate | Multiple | |
+|[Microsoft](https://careers.microsoft.com/us/en/job/1085297)| Program Manager | Redmond, Washington | |
+|[Coinbase](https://www.coinbase.com/careers/positions/2300617)| Associate Product Manager | Remote | |
+|[Paypal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager---Recent-College-Graduate_R0075290?Codes=W-LINKEDIN&fbclid=IwAR0_SA2xX2q7l8Pb_8xRdv89F2Qp9LlLq2P8Xj4J5YslgOEfo_j2uFM7R4Y)| Product Manager | Multiple | |
+|[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Product-Manager--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41361)| Product Manager | Multiple | |
 |Google| Associate Product Manager | | Not Released |
 |Twitter| Associate Product Manager | | Not Released |
-|[Microsoft](https://careers.microsoft.com/us/en/job/1085297)| Program Manager | | Redmond, Washington |
 |Atlassian| Associate Product Manager | | Not Released |
 |Kleiner Perkins| Product Fellow | | Not Released ||LinkedIn| Associate Product Manager | | Not Released |
 |Coinbase| Associate Product Manager | | Not Released |
 |Yahoo (Apollo)| Associate Product Manager | | Not Released |
-|Redfin| Associate Product Manager | Multiple | September 2021 Release |
 |Shopify| Apprentice Product Manager | | Closed for 2021 |
+|Facebook| Rotational Product Manager | Multiple | Closed for 2022 |
+|Uber| Associate Product Manager | San Francisco, CA | Closed for 2022 |
 
 
 ## The Internship List 🙀
@@ -61,7 +63,12 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445799002)| Associate Product Manager, Intern | | Pittsburgh, PA |
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=3337984&gh_src=8363eca61)| Product Manager Intern | | New York City, NY |
 |[Microsoft](https://careers.microsoft.com/us/en/job/1085296)| Program Manager Intern |  Redmond, Washington | Summer 2022 |
-|Redfin| Product Manager Intern | Multiple | September 2021 Release |
+|[Google](https://careers.google.com/jobs/results/104380363658142406-associate-product-manager-intern-summer-2022/?jid=179395001&page=29)| Associate Product Manager Intern | Associate Product Manager Intern | Mountain View, CA | Opening September 8th |
+|[Internet Brands](https://jobs.jobvite.com/internetbrands/job/o04EgfwI?__jvst=Job%20Board&__jvsd=LinkedIn)| Product Manager Intern | Los Angeles, CA | |
+|[IBM](https://careers.ibm.com/job/13546030/product-manager-summer-intern-2022-remote/?codes=SN_LinkedIn)| Product Manager Intern | Multiple | Summer 2022 | 
+|[Appian Corporation](https://boards.greenhouse.io/appian/jobs/3394396?gh_src=8b70a9021&s=LinkedIn&source=LinkedIn)| Product Manager Intern | McLean, VA | Summer 2022 |
+|[Paypal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager-Intern_R0075287?Codes=W-LINKEDIN)| Product Manager Intern | Multiple | Summer 2022 |
+|[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Product-Management---Summer-2022-Internship_41354)| Product Manager Intern | Multiple | Summer 2022 |
 
 # Resources to prepare
 ### Books
