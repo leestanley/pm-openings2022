@@ -9,8 +9,6 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 | Name  | Title  |  Location |  Notes |
 |---|---|---|---|
 |[Schmidt Futures](https://schmidtfutures.com/our-method/careers/associate-product-manager-2022/)| Associate Product Manager | New York | |
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--APM-_JR106327-1)| Associate Product Manager | San Francisco, CA | |
-|[Lyft](https://boards.greenhouse.io/lyft/jobs/5421099002?gh_jid=5421099002)| Associate Product Manager | San Francisco, CA |  |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445792002)| Associate Product Manager | Pittsburgh, PA | |
 |[IBM](https://careers.ibm.com/job/13546029/associate-product-manager-program-2022-remote/?codes=IBM_CareerWebSite)| Associate Product Manager | Multiple | |
 |[Capital One](https://campus.capitalone.com/job/mclean/product-development-program-associate-2022/1786/19642564)| Product Development Program Associate | Multiple | |
@@ -26,6 +24,8 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |Shopify| Apprentice Product Manager | | Closed for 2021 |
 |Facebook| Rotational Product Manager | Multiple | Closed for 2022 |
 |Uber| Associate Product Manager | San Francisco, CA | Closed for 2022 |
+|Salesforce| Associate Product Manager | San Francisco, CA | Closed for 2022 |
+|Lyft| Associate Product Manager | San Francisco, CA | Closed for 2022 |
 
 
 ## The Internship List 🙀
