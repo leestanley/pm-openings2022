@@ -22,7 +22,6 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |Twitter| Associate Product Manager | | Not Released |
 |Atlassian| Associate Product Manager | | Not Released |
 |Kleiner Perkins| Product Fellow | | Not Released ||LinkedIn| Associate Product Manager | | Not Released |
-|Coinbase| Associate Product Manager | | Not Released |
 |Yahoo (Apollo)| Associate Product Manager | | Not Released |
 |Shopify| Apprentice Product Manager | | Closed for 2021 |
 |Facebook| Rotational Product Manager | Multiple | Closed for 2022 |
