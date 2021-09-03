@@ -32,31 +32,16 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 
 | Name  | Title  |  Location |  Notes |
 |---|---|---|---|
-|[Owlet Baby Care](https://boards.greenhouse.io/owletbabycare/jobs/4055801004?s=LinkedIn&source=LinkedIn)| Intern, Product Management (Analytics) | Remote | 
 |[Tesla](https://www.tesla.com/careers/search/job/energy-product-management-internship-fall-2021-91829?source=LinkedIn)| Energy – Product Management Internship | Remote | Fall 2021 |
-|[Snackpass](https://jobs.lever.co/snackpass/5615cf85-adec-4b8f-8ed3-76cd2a0078cb)| Product Intern | | Fall 2021 | 
-|[Lucid](https://jobs.lever.co/lucidmotors/94895763-bfcc-4994-b30c-ac9f62d1d650?lever-origin=applied&lever-source%255B%255D=LinkedIn&lever-source=LinkedInJobs)| Intern, Product Management | Newark, CA | Fall 2021 |
 |[nCino](https://ncino.wd5.myworkdayjobs.com/en-US/nCinoCareers/job/Salt-Lake-City-UT/Product-Management-Intern---Summer-2021---Salt-Lake-City_R2088?source=Linkedin)| Product Management Intern | Salt Lake City, UT | Summer/Fall 2021 |
-|[Formlabs](https://careers.formlabs.com/job/3198113/apply/?gh_jid=3198113&gh_src=74d12b151us)| Software Product Management Intern | Somerville, MA | |
-|[Blackberry](https://bb.wd3.myworkdayjobs.com/Student/job/San-Ramon-California/Product-Management-Intern---BlackBerry-AtHoc---Intern---Fall-Term_20210592)| Product Management Intern - BlackBerry AtHoc | San Ramon, CA | Fall 2021 |
 |[Paypal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager-Intern_R0075287?Codes=W-LINKEDIN)| Product Manager Intern | Multiple | Summer 2022 |
-|[T-Mobile](https://www.tmobile.careers/job-details/13090202/techx-intern-project-management-san-diego-ca/?utm_medium=%2522mcloud%252Djobads%2522&utm_campaign=Exclusions&utm_content=TechX%2520Intern%2520%252D%2520Project%2520Management&utm_term=680421)| TechX Intern – Project Management | San Diego, CA | Fall 2021 - Spring 2022 |
 |[SAM Labs](https://boards.greenhouse.io/samlabs/jobs/3227804?gh_jid=3227804&gh_src=53e922201us)| Strategy Associate Internship (Growth) | | |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999757085649-localization-project-manager-intern)| Localization Project Manager Intern | Remote | |
 |[Wish](https://jobs.smartrecruiters.com/Wish/743999748339491-intern-project-manager-logistics-fall-2021-)| Intern - Project Manager, Logistics | Remote | Fall 2021 |
-|[CrowdStrike](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Program-Manager-Intern--Remote-_R4109?source=tmp_link&dclid=CIaknIaR4fECFcZ6YgodEscB8g)| Engineering Program Manager Intern | Remote | |
 |[Lenovo](https://jobs.lenovo.com/en_US/careers/ApplicationMethods?jobId=25913)| Product Manager Intern | Remote | Spring 2022 |
-|[PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4055753004?s=LinkedIn&source=LinkedIn)| CAP Product Manager Intern | Remote | Fall 2021 |
 |[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Magnum-IO-Product-Intern---Summer-Fall-2021_JR1942033-1?source=jobboardlinkedin)| Magnum IO Product Intern | Remote | Summer/Fall 2021 |
-|[Cubic Corporation](https://cubic.wd1.myworkdayjobs.com/en-US/cubic_USA_careers/job/USA-San-Diego-CA-HQ/Program-Management-Intern_REQ_28709)| Program Management Intern | San Diego, CA | |
-|[Integral Ad Science](https://integralads.com/about-ias/careers/job-openings/?gh_jid=3319550&gh_src=6e382d8d1us)| Product Manager Intern | Chicago, IL | |
-|[Nielsen](https://jobs.nielsen.com/job/Tampa-FL-33601/738654400/?src=JB-10001)| Automation/Product Management Intern | Tampa, FL | |
-|[Koddi](https://jobs.lever.co/koddi/8c58bb77-9eb1-40ba-99d1-0490cc07eb93)| Product Management Intern | Fort Worth, TX | |
-|[Tesla](https://www.tesla.com/careers/search/job/energy-technical-program-management-internship-fall-2021-80328)| Technical Program Management Intern | 	Palo Alto, CA | Fall 2021 |
 |[Tesla](https://www.tesla.com/careers/search/job/applications-engineering-product-management-internship-fall-2021-80368)| Product Management Intern | Fremont, CA | Fall 2021 |
 |[Motional](https://boards.greenhouse.io/motional/jobs/4623928003?gh_src=d5b9c08a3us)| Technical Program Management Intern | Pittsburgh, PA | Fall 2021 |
-|[Intel](https://jobs.intel.com/ShowJob/Id/2958460/Intern%20%20%20Technical%20Program%20Management)| Technical Program Management Intern | Santa Clara, CA | |
-|[Sezzle](https://boards.greenhouse.io/sezzle/jobs/4645961003?gh_src=6d383ce23us)| Product Management Intern | Minneapolis, MN | |
 |[Foursquare](https://boards.greenhouse.io/foursquare26/jobs/2233480?gh_src=5ce553f31&s=LinkedIn&source=LinkedIn)| Product & Data Support Intern | New York | |
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Specialist-Intern-United-States/1338685)| Product Management Specialist Intern | San Jose, CA | |
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/5445799002)| Associate Product Manager, Intern | | Pittsburgh, PA |
@@ -66,10 +51,13 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Internet Brands](https://jobs.jobvite.com/internetbrands/job/o04EgfwI?__jvst=Job%20Board&__jvsd=LinkedIn)| Product Manager Intern | Los Angeles, CA | |
 |[IBM](https://careers.ibm.com/job/13546030/product-manager-summer-intern-2022-remote/?codes=SN_LinkedIn)| Product Manager Intern | Multiple | Summer 2022 | 
 |[Appian Corporation](https://boards.greenhouse.io/appian/jobs/3394396?gh_src=8b70a9021&s=LinkedIn&source=LinkedIn)| Product Manager Intern | McLean, VA | Summer 2022 |
-|[Paypal](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Product-Manager-Intern_R0075287?Codes=W-LINKEDIN)| Product Manager Intern | Multiple | Summer 2022 |
 |[Redfin](https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/WA---Seattle/Product-Management---Summer-2022-Internship_41354)| Product Manager Intern | Multiple | Summer 2022 |
 |[PWC](https://jobs.us.pwc.com/job/-/-/932/12821169664?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CNCllqKb0PICFQaZpwodYzwGwA)| Product Manager Intern | Multiple | Summer 2022 |
 |[Pattern](https://pattern.breezy.hr/p/cddca9ea8392-internship-product-management)| Product Manager Intern | Lehi, UT | Fall 2021 | 
+|[UiPath](https://jobs.lever.co/uipath/b3528bfc-88a6-4b74-b307-071944f7874d?lever-source=LinkedInJobs)| Product Manager Intern | Bellevue, WA | |
+|[Riot Games](https://www.riotgames.com/en/work-with-us/job/3348496/technical-product-manager-intern-riot-developer-experience-los-angeles-usa)| Technical Product Manager Intern | Los Angeles, CA | |
+|[Experian](https://jobs.smartrecruiters.com/Experian/743999767563831-product-manager-intern) | Product Manager Intern | Costa Mesa, CA | |
+|[Spreetail](https://jobs.lever.co/spreetail/47b0d71f-1d04-4cac-882e-7c4c4f908d1f) | Product Manager Intern | Lincoln, NE | | 
 
 # Resources to prepare
 ### Books
