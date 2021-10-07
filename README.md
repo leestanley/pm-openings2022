@@ -58,6 +58,7 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Riot Games](https://www.riotgames.com/en/work-with-us/job/3348496/technical-product-manager-intern-riot-developer-experience-los-angeles-usa)| Technical Product Manager Intern | Los Angeles, CA | |
 |[Experian](https://jobs.smartrecruiters.com/Experian/743999767563831-product-manager-intern) | Product Manager Intern | Costa Mesa, CA | |
 |[Spreetail](https://jobs.lever.co/spreetail/47b0d71f-1d04-4cac-882e-7c4c4f908d1f) | Product Manager Intern | Lincoln, NE | | 
+|[ebay](https://ripplematch.com/job/ebay/fe044c10/?tl=331019b4)| Technical Product Manager Intern | Multiple | Summer 2022 |
 
 # Resources to prepare
 ### Books
