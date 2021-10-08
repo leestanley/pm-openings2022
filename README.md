@@ -59,6 +59,11 @@ Feel free to make a [PR](https://github.com/leestanley/pm-openings2022/pulls) to
 |[Experian](https://jobs.smartrecruiters.com/Experian/743999767563831-product-manager-intern) | Product Manager Intern | Costa Mesa, CA | |
 |[Spreetail](https://jobs.lever.co/spreetail/47b0d71f-1d04-4cac-882e-7c4c4f908d1f) | Product Manager Intern | Lincoln, NE | | 
 |[ebay](https://ripplematch.com/job/ebay/fe044c10/?tl=331019b4)| Technical Product Manager Intern | Multiple | Summer 2022 |
+|[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Purchase-New-York/Products---Engineering-Summer-Intern--2022-_R-135964-1)| Product and Engineering Summer Intern | Purchase, New York | Summer 2022 |
+|[MasterCard](https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/New-York-City-New-York/Products---Engineering-Summer-Intern--2022-_R-135956)| Product and Engineering Summer Intern | New York City, New York | Summer 2022 |
+|[Zoom](https://www.canvas.com/app/discover/jobs/zoom/r-6048-2022-product-manager-intern/1d5653bd-7c1d-4b7a-a5c6-b0bb0c883175)| Product Manager Intern | Remote | |
+|[Adobe](https://www.canvas.com/app/discover/jobs/adobe/product-management-intern/1cb66c9d-4f49-406e-b7e7-bf1d95e8aca2)| Product Management Intern | San Jose, CA, Remote | |
+|[Gopuff](https://www.canvas.com/app/discover/jobs/gopuff/product-management-intern/ad84087c-0c15-4ccf-838a-59610cc1fb92)| Product Management Intern | Philadelphia, PA, Remote | |
 
 # Resources to prepare
 ### Books
